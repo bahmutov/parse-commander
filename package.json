@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/bahmutov/parse-commander/issues"
   },
-  "homepage": "https://github.com/bahmutov/parse-commander#readme"
+  "homepage": "https://github.com/bahmutov/parse-commander#readme",
+  "dependencies": {
+    "commander": "5.1.0"
+  }
 }
